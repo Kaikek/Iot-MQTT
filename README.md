@@ -10,3 +10,6 @@ Grafana:
 Circuit:
 
 ![This is an image](https://media.discordapp.net/attachments/552954143992578052/957967590175690872/45e74be5-f1cd-4028-862f-1a1aa38995e7.png?width=473&height=499)
+
+
+https://www.youtube.com/watch?v=uSuZx3VSOUA
